@@ -28,3 +28,5 @@ Create new branch by git checkout -b new_branch
 git checkout new_branch
 
 git commit -a  =  git add . ; git commit 
+
+git fork: creates copy of remote repo directory 
