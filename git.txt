@@ -1,0 +1,22 @@
+git remote add origin https://github.com/lgandzii/test100823.git
+
+git push -u origin main
+
+1. Create some folder
+2. create some files in that dir
+3. git init - make folder a local repo
+4. git status - check status
+5. git add . - add all files to staging area
+6. git commit -m  "commit message" - push code from staging area to local repo
+7. create remote repo
+8. create token to connect to remote repo
+9. connect to remote repo 
+   git remote add origin https://github.com/lgandzii/test100823.git
+
+10. git remote -v  - check if connected to remote repo
+11. if anything wrong remove remote repo 
+
+    git remote remove origin
+12. git push -u origin BRANCHNAME
+
+
