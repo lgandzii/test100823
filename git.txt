@@ -22,3 +22,4 @@ git push -u origin main
 if we want to download any public repo to local machine:
 1. Create dir
 2. Open terminal inside that dir and run: git clone URL
+3. To update public repo on local machine in its directory: git pull
