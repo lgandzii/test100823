@@ -19,4 +19,6 @@ git push -u origin main
     git remote remove origin
 12. git push -u origin BRANCHNAME
 
-
+if we want to download any public repo to local machine:
+1. Create dir
+2. Open terminal inside that dir and run: git clone URL
